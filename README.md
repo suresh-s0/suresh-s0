@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suresh</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A  fullstack developer from India</h3>
 <p align="center">📫 Reach me at: <strong>sureshaster09@gmail.com</strong></p>
 
 <h3 align="left">Connect with me:</h3>
@@ -49,7 +49,7 @@
   </a>
 
  <a href="https://vite.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="vite" width="40" height="40" style="display: block; margin-right: 10px;" />
+    <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="vite" width="37" height="37" style="display: block; margin-right: 10px;" />
   </a>
 
   
