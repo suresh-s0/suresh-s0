@@ -47,6 +47,12 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="display: block; margin-right: 10px;" />
   </a>
+
+ <a href="https://vite.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="vite" width="40" height="40" style="display: block; margin-right: 10px;" />
+  </a>
+
+  
 </p>
 
 <p>
