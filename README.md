@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suresh</h1>
-<h3 align="center">A  fullstack developer from India</h3>
+<h3 align="center">A  Back-end developer from India</h3>
 <p align="center">📫 Reach me at: <strong>sureshaster09@gmail.com</strong></p>
 
 <h3 align="left">Connect with me:</h3>
