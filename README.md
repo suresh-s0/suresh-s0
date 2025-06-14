@@ -4,8 +4,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/suresh-s003" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suresh-s003" height="30" width="40" style="display: block; margin-right: 10px;" />
+  <a href="https://linkedin.com/in/suresh-s0" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suresh-s0" height="30" width="40" style="display: block; margin-right: 10px;" />
   </a>
   <a href="https://instagram.com/sureshs__5" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sureshs__5" height="30" width="40" style="display: block; margin-right: 10px;" />
